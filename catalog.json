@@ -1,1 +1,40 @@
-{"regions": []}
+{
+  "regions": [
+    {
+      "id": "austria",
+      "name": "Österreich",
+      "updated": "2026-10-03",
+      "sizeBytes": 1782590205,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/austria-2026-10-03/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/austria-2026-10-03/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/austria-2026-10-03/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/austria-2026-10-03/extras.geojson"
+      }
+    },
+    {
+      "id": "switzerland",
+      "name": "Schweiz",
+      "updated": "2026-10-03",
+      "sizeBytes": 1327352995,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/switzerland-2026-10-03/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/switzerland-2026-10-03/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/switzerland-2026-10-03/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/switzerland-2026-10-03/extras.geojson"
+      }
+    },
+    {
+      "id": "liechtenstein",
+      "name": "Liechtenstein",
+      "updated": "2026-10-03",
+      "sizeBytes": 8353992,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/liechtenstein-2026-10-03/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/liechtenstein-2026-10-03/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/liechtenstein-2026-10-03/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/liechtenstein-2026-10-03/extras.geojson"
+      }
+    }
+  ]
+}
