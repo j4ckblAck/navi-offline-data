@@ -35,6 +35,54 @@
         "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/liechtenstein-2026-10-03/search.sqlite",
         "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/liechtenstein-2026-10-03/extras.geojson"
       }
+    },
+    {
+      "id": "slovenia",
+      "name": "Slowenien",
+      "updated": "2026-10-05",
+      "sizeBytes": 445169754,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovenia-2026-10-05/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovenia-2026-10-05/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovenia-2026-10-05/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovenia-2026-10-05/extras.geojson"
+      }
+    },
+    {
+      "id": "czechia",
+      "name": "Tschechien",
+      "updated": "2026-10-05",
+      "sizeBytes": 1653345357,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/czechia-2026-10-05/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/czechia-2026-10-05/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/czechia-2026-10-05/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/czechia-2026-10-05/extras.geojson"
+      }
+    },
+    {
+      "id": "slovakia",
+      "name": "Slowakei",
+      "updated": "2026-10-05",
+      "sizeBytes": 796044128,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovakia-2026-10-05/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovakia-2026-10-05/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovakia-2026-10-05/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/slovakia-2026-10-05/extras.geojson"
+      }
+    },
+    {
+      "id": "hungary",
+      "name": "Ungarn",
+      "updated": "2026-10-05",
+      "sizeBytes": 760647905,
+      "files": {
+        "map": "https://github.com/j4ckblAck/navi-offline-data/releases/download/hungary-2026-10-05/map.pmtiles",
+        "routing": "https://github.com/j4ckblAck/navi-offline-data/releases/download/hungary-2026-10-05/routing.tar",
+        "search": "https://github.com/j4ckblAck/navi-offline-data/releases/download/hungary-2026-10-05/search.sqlite",
+        "extras": "https://github.com/j4ckblAck/navi-offline-data/releases/download/hungary-2026-10-05/extras.geojson"
+      }
     }
   ]
 }
